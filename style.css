@@ -1,5 +1,23 @@
+body {
+    background-color: rgb(231, 231, 231);
+}
 img {
     border-radius: 200px;
     width: 200px;
     height: 200px;
+}
+
+h1 {
+    color: #00cfcf;
+}
+
+h3 {
+    color: #00cfcf;  
+}
+
+hr {
+    width: 120px;
+    border-style: dotted none none none;
+    border-width: 6px;
+    border-color: gray;
 }
